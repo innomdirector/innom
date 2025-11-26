@@ -1,0 +1,1 @@
+print("INNO M ACADEMY")
